@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 Heres some stuff ive done and/or doing rn
+
+Contact:
+- Email:
+n1mansour@ryerson.ca
+- LinkedIn:
+https://www.linkedin.com/in/nnym/
 <!--
 **NabilNYMansour/NabilNYMansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
