@@ -1,8 +1,9 @@
 ### Hi there 👋
+- I'm Nabil: a computer science student at Ryerson University. I like virtually anything related to computers. From Robots to video games to web dev to low level design.
 
-- 🔭 I’m currently learning Lisp and working as an intern under the supervision of [Professor Santos](https://github.com/marcus3santos) in making the automation tools for Lisp assignments in his Data Structures course.
+- 🔭 I’m currently learning Lisp and working as an intern under the supervision of [Professor Santos](https://github.com/marcus3santos) in making the automation tools and labs for Lisp assignments in his Data Structures course.
 
-- Regardless, here's some stuff I've done before.
+- Below is some stuff I've done before.
 
 Contact:
 - Email:
