@@ -1,11 +1,13 @@
 ### Hi there 👋
-- I'm Nabil: a computer science student at Ryerson University. I like virtually anything related to computers. From Robots to video games to web dev to low level design.
+- I'm Nabil: a computer science student at (previously called) Ryerson University. I like virtually anything related to computers. From Robots to video games to web dev to low level design.
 
-- 🔭 I’m currently in my third year and TAing under the supervision of [Professor Santos](https://github.com/marcus3santos) in teaching CPS305 Data Structures.
+- 🔭 I’m currently in my third year and TAing CPS506 Comparative Programming Languages.
 
 - Below is some stuff I've done before.
 
 Contact:
+- Website:
+https://nabilmansour.com/
 - Email:
 n1mansour@ryerson.ca
 - LinkedIn:
