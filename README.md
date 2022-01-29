@@ -7,7 +7,7 @@
 
 Contact:
 - Website:
-https://nabilmansour.com/ (Still in progress).
+https://nabilmansour.com/
 - Email:
 n1mansour@ryerson.ca
 - LinkedIn:
