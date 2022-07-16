@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm Nabil: a computer science student at Toronto Metropolitan University (previously called Ryerson University). I like virtually anything related to computers. From Robots to video games to web dev to low level design.
 
-- 🔭 I’m currently in my third year and TAing CPS506 Comparative Programming Languages.
+- 🔭 I’m currently learning shaders :skull: (https://www.shadertoy.com/user/chickenlegs).
 
 - Below is some stuff I've done before.
 
