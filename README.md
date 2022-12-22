@@ -9,7 +9,7 @@ Contact:
 - Website:
 https://nabilmansour.com/
 - Email:
-n1mansour@ryerson.ca
+nabilnymansour@gmail.com
 - LinkedIn:
 https://www.linkedin.com/in/nnym/
 <!--
