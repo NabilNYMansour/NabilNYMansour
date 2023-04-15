@@ -1,17 +1,13 @@
 ### Hi there 👋
-- I'm Nabil: a computer science student at Toronto Metropolitan University (previously called Ryerson University). I like virtually anything related to computers. From Robots to video games to web dev to low level design.
-
-- 🔭 I’m currently learning shaders :skull: (https://www.shadertoy.com/user/chickenlegs).
+- I'm Nabil: a CS student at Toronto Metropolitan University (previously called Ryerson University). I try to work with anything related to computers but my focus has been on Graphics and AI.
 
 - Below is some stuff I've done before.
 
 Contact:
-- Website:
-https://nabilmansour.com/
-- Email:
-nabilnymansour@gmail.com
-- LinkedIn:
-https://www.linkedin.com/in/nnym/
+- Website: https://nabilmansour.com/
+- Email: nabilnymansour@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nnym/
+- ShaderToy: https://www.shadertoy.com/user/chickenlegs
 <!--
 **NabilNYMansour/NabilNYMansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
