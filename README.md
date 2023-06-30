@@ -3,11 +3,12 @@
 
 - Below is some stuff I've done before.
 
-Contact:
+You can contact or find me through:
 - Website: https://nabilmansour.com/
 - Email: nabilnymansour@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nnym/
 - ShaderToy: https://www.shadertoy.com/user/chickenlegs
+- Youtube: https://www.youtube.com/@nabilnymansour
 <!--
 **NabilNYMansour/NabilNYMansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
