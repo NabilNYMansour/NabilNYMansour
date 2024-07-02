@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Nabil: a CS student at Toronto Metropolitan University (previously called Ryerson University). I try to work with anything related to computers but my focus has been on Graphics and AI.
+- I'm Nabil: a CS student at Toronto Metropolitan University (previously called Ryerson University). I try to work with anything related to computers but my focus has been on Graphics and Web dev.
 
 - Below is some stuff I've done before.
 
