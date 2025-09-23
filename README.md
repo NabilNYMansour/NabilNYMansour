@@ -1,3 +1,20 @@
+```
+  /$$$$$$  /$$                       /$$                                                      
+ /$$__  $$| $$                      | $$                                                      
+| $$  \__/| $$$$$$$   /$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$  /$$$$$$/$$$$   /$$$$$$  /$$$$$$$ 
+|  $$$$$$ | $$__  $$ |____  $$ /$$__  $$ /$$__  $$ /$$__  $$| $$_  $$_  $$ |____  $$| $$__  $$
+ \____  $$| $$  \ $$  /$$$$$$$| $$  | $$| $$$$$$$$| $$  \__/| $$ \ $$ \ $$  /$$$$$$$| $$  \ $$
+ /$$  \ $$| $$  | $$ /$$__  $$| $$  | $$| $$_____/| $$      | $$ | $$ | $$ /$$__  $$| $$  | $$
+|  $$$$$$/| $$  | $$|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$      | $$ | $$ | $$|  $$$$$$$| $$  | $$
+ \______/ |__/  |__/ \_______/ \_______/ \_______/|__/      |__/ |__/ |__/ \_______/|__/  |__/
+```
+- Youtube: https://www.youtube.com/@nabilnymansour
+- Website: https://three.nabilmansour.com/
+- Email: nabilnymansour@gmail.com
+
+<!--
+**NabilNYMansour/NabilNYMansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hi there 👋
 - 👨‍💻 I'm Nabil, a software developer from Toronto. I like to work with anything related to computers but my focus has been on Graphics and Web dev.
 
@@ -11,8 +28,6 @@
 	- ▶️ Youtube: https://www.youtube.com/@nabilnymansour
 
 - 🤔 Below is some stuff I've done before.
-<!--
-**NabilNYMansour/NabilNYMansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
