@@ -22,9 +22,6 @@
 - 📻 [**Wireless Arduino RC Car**](https://github.com/NabilNYMansour/Wireless-RC-Car) - A wireless Arduino RC car made out of cardboard and controlled using radio antennas
 - ⛏️ [**Voxel Terrain**](https://github.com/NabilNYMansour/Voxel-Terrain) - A Unity demo that showcases a randomly generated voxel terrain based on Minecraft
 
-## GitHub Activity
-![GitHub Contribution Graph](https://ghchart.rshah.org/NabilNYMansour)
-
 ## Cool stuff 👨‍💻
 Check this out: a one liner mandlebrot set
 ```bash
