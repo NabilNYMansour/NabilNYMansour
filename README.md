@@ -11,7 +11,7 @@
 - 🔒 [**SECRETeer**](https://secreteer.dev/) - End-to-end encrypted secret sharing platform. No account needed also. Completely free
 - 📋 [**JSONeer**](https://jsoneer.dev/) - A simple platform for creating and fetching JSONs effortlessly
 - 🎨 [**Excalihub**](https://excalihub.dev/) - A free platform for creating and sharing Excalidraw drawings
-- 🌌 [**Fractal Glide**](https://store.steampowered.com/app/2449630/Fractal_Glide/) - A fractal game where the player glides through fractal landscapes (available on Steam!)
+- 🌌 [**Fractal Glide**](https://store.steampowered.com/app/2565200/Fractal_Glide/) - A fractal game where the player glides through fractal landscapes (available on Steam!)
 - 📝 [**Medium to Markdown**](https://medium2md.nabilmansour.com/) - A web app that converts Medium articles to markdown files
 - ⚡ [**Unity FractiX**](https://github.com/NabilNYMansour/Unity-FractiX) - An open-source cone marching/ray marching rendering engine written as a post-effect to the Unity rendering pipeline
 - ♟️ [**Neuro Gambit**](https://github.com/NabilNYMansour/Neuro-Gambit) - An artificial neural network made and trained using PyTorch to play chess
