@@ -6,7 +6,7 @@
 - ✉️ If you want to contact me, you can always shoot me an email [nabilnymansour@gmail.com](nabilnymansour@gmail.com)
 
 ## Projects
-- 🎮 [**Phibelle Engine**](https://phibelle.studio/) - An AI powered web game engine
+- 🎮 [**Phibelle Engine**](https://phibelle.studio/) - An R3F web game engine
 - 📱 [**QRCodeer**](https://www.qrcodeer.dev/) - A simple and easy-to-use free QR code generator. No account needed
 - 🔒 [**SECRETeer**](https://secreteer.dev/) - End-to-end encrypted secret sharing platform. No account needed also. Completely free
 - 📋 [**JSONeer**](https://jsoneer.dev/) - A simple platform for creating and fetching JSONs effortlessly
