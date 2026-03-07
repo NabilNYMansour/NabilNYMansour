@@ -23,7 +23,7 @@
 - ⛏️ [**Voxel Terrain**](https://github.com/NabilNYMansour/Voxel-Terrain) - A Unity demo that showcases a randomly generated voxel terrain based on Minecraft
 
 ## Cool stuff 👨‍💻
-Check this out: a one liner mandlebrot set
+- Wanna see a mandelbrot set on your terminal, run 
 ```bash
-awk 'BEGIN{L=50;S=100;H=30;G="  .`\",:^-=~_+<>i!lI|/?jrc*vxunxztrfJYLCUJClo()1{}[]TFS#mwqpdbkhaoOZ0QLCJUYXVNMW&B8%@$";for(i=0;i<H;i++){y=1-2*i/H;l="";for(j=0;j<S;j++){x=-2+3*j/S;zx=zy=n=0;while(n<L&&(zx*zx+zy*zy)<4){t=zx*zx-zy*zy+x;zy=2*zx*zy+y;zx=t;n++}l=l substr(G,int(n*length(G)/L)+(int(n*length(G)/L)>=length(G)?-1:0),1)}print l}}'
+npx terminal-mandelbrot --gray
 ```
