@@ -5,6 +5,11 @@
 
 - ✉️ If you want to contact me, you can always shoot me an email [nabilnymansour@gmail.com](nabilnymansour@gmail.com)
 
+## CLIs 👨‍💻
+```bash
+npx terminal-mandelbrot --gray # For a quick mandelbrot set explorer on your terminal
+```
+
 ## Projects
 - 🎮 [**Phibelle Engine**](https://phibelle.studio/) - An R3F web game engine
 - 📱 [**QRCodeer**](https://www.qrcodeer.dev/) - A simple and easy-to-use free QR code generator. No account needed
@@ -21,9 +26,3 @@
 - 🚗 [**Self Parallel Parking Arduino Car**](https://github.com/NabilNYMansour/CPS607-Self-Parallel-Parking) - An Arduino car that parallel parks on its own
 - 📻 [**Wireless Arduino RC Car**](https://github.com/NabilNYMansour/Wireless-RC-Car) - A wireless Arduino RC car made out of cardboard and controlled using radio antennas
 - ⛏️ [**Voxel Terrain**](https://github.com/NabilNYMansour/Voxel-Terrain) - A Unity demo that showcases a randomly generated voxel terrain based on Minecraft
-
-## Cool stuff 👨‍💻
-- 🌀 **Terminal Mandelbrot** - For a quick mandelbrot set explorer on your terminal
-```bash
-npx terminal-mandelbrot --gray
-```
