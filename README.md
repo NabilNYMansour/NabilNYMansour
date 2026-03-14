@@ -7,6 +7,14 @@
 
 ## CLIs 👨‍💻
 ```bash
+npx phibelle-kit init # For starting a new phibelle game engine scene
+```
+```bash
+# For making rapid single-turn prompts against an Ollama server
+npm install -g rapid-lama
+rlama "What is the capital of Italy?"
+```
+```bash
 npx terminal-mandelbrot --gray # For a quick mandelbrot set explorer on your terminal
 ```
 
