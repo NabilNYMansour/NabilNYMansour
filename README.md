@@ -5,9 +5,9 @@
 
 - ✉️ If you want to contact me, you can always shoot me an email [nabilnymansour@gmail.com](nabilnymansour@gmail.com)
 
-## CLIs
+- 👨‍💻 CLIs I've made:
 ```bash
-npx phibelle-kit init # For starting a new phibelle game engine scene
+npx terminal-mandelbrot --gray # For a quick mandelbrot set explorer on your terminal
 ```
 ```bash
 # For making rapid single-turn prompts against an Ollama server
@@ -15,5 +15,5 @@ npm install -g rapid-lama
 rlama "What is the capital of Italy?"
 ```
 ```bash
-npx terminal-mandelbrot --gray # For a quick mandelbrot set explorer on your terminal
+npx phibelle-kit init # For starting a new phibelle game engine scene
 ```
